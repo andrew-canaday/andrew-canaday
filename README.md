@@ -1,4 +1,4 @@
-<img align="right" height="50%" width="50%" valign="middle" src="./img/guild-logo-circle.png">
+<img align="right" height="25%" width="25%" valign="middle" src="./img/guild-logo-circle.png">
 
 # I support the Times-Guild of New York
 
