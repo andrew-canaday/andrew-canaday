@@ -9,6 +9,3 @@
      - [libvmodquery-filter](https://github.com/nytimes/libvmod-queryfilter)
      - [drone-gdm](https://github.com/nytimes/drone-gdm) (:warning: **deprecation imminent**)
 
-People tease me about my websites (doubly so for saying "homepage"). I agree
-with them. Still, I have fun making this stuff + I've been on the internet since
-the beginning, so...it feels like "home" to me.
