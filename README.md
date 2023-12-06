@@ -7,5 +7,4 @@
      - [libyimmo](http://blog.yimmo.org/yimmo/) ([source](https://github.com/andrew-canaday/libyimmo))
  - Maintainer for:
      - [libvmodquery-filter](https://github.com/nytimes/libvmod-queryfilter)
-     - [drone-gdm](https://github.com/nytimes/drone-gdm) (:warning: **deprecation imminent**)
 
