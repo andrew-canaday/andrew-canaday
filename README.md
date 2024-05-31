@@ -8,3 +8,5 @@
  - Maintainer for:
      - [libvmodquery-filter](https://github.com/nytimes/libvmod-queryfilter)
 
+
+:information_source: the contributions below just track my personal-time hacking. (I keep personal/employer accounts separate).
